@@ -1,0 +1,311 @@
+factor	question	text	source	options	pattern	structure
+1	170	DOG avoids or is fearful of unfamiliar adults	CDTT	Strongly Agree to Strongly Disagree	0.9189938299243954	0.8829678018888996
+1	42	DOG is friendly towards unfamiliar people	DPQ	Strongly Agree to Strongly Disagree	-0.885711745949333	-0.8087460470956057
+1	165	DOG Displays friendly tail wagging when greeting an unfamiliar person	CDTT	Strongly Agree to Strongly Disagree	-0.8734884595404905	-0.7845269943003891
+1	166	DOG accepts being petted by an unfamiliar person	CDTT	Strongly Agree to Strongly Disagree	-0.8621094654834676	-0.8122573827904417
+1	46	DOG behaves fearfully towards unfamiliar people	DPQ	Strongly Agree to Strongly Disagree	0.8593194548816778	0.8578347822993424
+1	167	DOG tucks tail between legs and/or flattens ears when approached by an unfamiliar person	CDTT	Strongly Agree to Strongly Disagree	0.6612163963313289	0.6821533852315802
+1	12	DOG is shy	DPQ	Strongly Agree to Strongly Disagree	0.6379639667787653	0.7215817470826951
+1	45	DOG is a people person	NA	Strongly Agree to Strongly Disagree	-0.611473549690936	-0.703973279091641
+1	171	DOG avoids or is fearful of unfamiliar children	CDTT	Strongly Agree to Strongly Disagree	0.5894082434472466	0.6768932292907249
+1	174	DOG is nervous around people with certain characteristics (beards, hats, sunglasses, bald, tall )	NA	Strongly Agree to Strongly Disagree	0.5484150848651836	0.5903894837125178
+1	175	DOG is nervous around people in certain environments (while in car or with workers in home, etc. )	NA	Strongly Agree to Strongly Disagree	0.5271189770369107	0.6572542907303918
+1	48	DOG behaves aggressively towards unfamiliar people	DPQ	Strongly Agree to Strongly Disagree	0.5084971991735117	0.5634112490954696
+1	50	DOG must greet everyone who comes to the door	NA	Strongly Agree to Strongly Disagree	-0.4835656059949006	-0.4976552186044856
+1	41	DOG doesn't like to be approached or hugged	DIAS	Strongly Agree to Strongly Disagree	0.3588736857342305	0.5843005009795056
+1	11	DOG is relaxed when greeting people	DPQ	Strongly Agree to Strongly Disagree	-0.3406299029835658	-0.40024917649551855
+1	84	DOG is not keen to go into new situations	DIAS	Strongly Agree to Strongly Disagree	0.3222001426400583	0.5930628042846124
+1	81	DOG is very interested in and adapts easily to new things and new places	DIAS DPQ	Strongly Agree to Strongly Disagree	-0.30493793163846483	-0.5612447351953007
+1	44	DOG behaves aggressively in response to perceived threats from people (e.g., being cornered, having collar reached for)	DPQ	Strongly Agree to Strongly Disagree	0.2608719426942027	0.435658043630865
+1	49	DOG seeks companionship from people	DPQ	Strongly Agree to Strongly Disagree	-0.24878232884840595	-0.4064080974153891
+1	169	DOG is bold.	DPQL	Strongly Agree to Strongly Disagree	-0.2340904989701297	-0.41885128980444497
+1	168	DOG is gentle with small children	CDTT	Strongly Agree to Strongly Disagree	-0.21156574198967876	-0.3338442327998742
+1	80	DOG sometimes fails to recognize familiar people or pets	CCDR	Strongly Agree to Strongly Disagree	0.17371572183526834	0.28458273948450324
+1	102	DOG is confident	DPQ	Strongly Agree to Strongly Disagree	-0.1721377203754217	-0.5015040687341491
+1	88	DOG behaves fearfully during visits to the veterinarian	DPQ	Strongly Agree to Strongly Disagree	0.15930246792164698	0.4669945664823002
+1	172	DOG is easily startled by unexpected contact with objects (e.g., tripping, brushing against a door frame ).	DPQL	Strongly Agree to Strongly Disagree	0.1576433389580966	0.36994861132981066
+1	104	DOG is anxious	DPQ	Strongly Agree to Strongly Disagree	0.1168592626362073	0.45773370898120963
+1	37	DOG walks away or avoids being patted	CCDR	Never to Always	-0.10784817119830212	-0.36163939198187434
+1	83	DOG behaves fearfully when groomed (e.g., nails trimmed, brushed, bathed, ears cleaned)	DPQ	Strongly Agree to Strongly Disagree	-0.10215711640976513	0.2417251576074136
+1	109	DOG is aloof	DPQ	Strongly Agree to Strongly Disagree	0.08811668352774141	0.21207599489605322
+1	173	DOG is quick to recover after being startled or frightened.	DPQL	Strongly Agree to Strongly Disagree	-0.08494733599061974	-0.3561333333012184
+1	75	DOG is friendly towards other dogs	DPQ	Strongly Agree to Strongly Disagree	-0.07299718044957093	-0.27408547318686793
+1	82	DOG exhibits fearful behaviors when HE is restrained	DPQ	Strongly Agree to Strongly Disagree	0.06258680044564968	0.42368751440936714
+1	77	DOG behaves fearfully towards other dogs	DPQ	Strongly Agree to Strongly Disagree	0.046659128876667205	0.3728552957945124
+1	86	DOG is highly sensitive to noise	NA	Strongly Agree to Strongly Disagree	0.0355647568703237	0.27124868887186776
+1	1	DOG enjoys life	CHQLS	Strongly Agree to Strongly Disagree	0.03475083065774803	-0.22293470187184228
+1	74	DOG avoids other dogs	DPQ	Strongly Agree to Strongly Disagree	0.030291652313111983	0.26235211439708345
+1	87	DOG shows aggression when nervous or fearful	DPQ	Strongly Agree to Strongly Disagree	0.025451173528856515	0.33982053273710483
+1	85	DOG behaves aggressively during visits to the veterinarian	DPQ	Strongly Agree to Strongly Disagree	0.011014270643039508	0.29307909795099407
+1	97	DOG shakes or trembles occasionally	CHQLS	Strongly Agree to Strongly Disagree	0.006586316734414462	0.21818974011418005
+2	198	DOG is choosy about what HE eats	Allergy	Strongly Agree to Strongly Disagree	0.9240334816726279	0.8427681868650524
+2	209	DOG is choosy about which tidbits HE eats	DORA	Never to Always	-0.8248832278943216	-0.757934484334792
+2	212	DOG inspects unfamiliar foods before deciding whether or not to eat them	DORA	Never to Always	-0.8192871274326669	-0.7419861139284898
+2	202	DOG refuses to eat certain types of dog food or treats	Allergy	Strongly Agree to Strongly Disagree	0.7967431274548641	0.7361865486934818
+2	196	DOG inspects unfamiliar foods before deciding whether to eat them	Allergy	Strongly Agree to Strongly Disagree	0.7937613929817059	0.7211373366469538
+2	229	DOG would eat anything	DORA	Not True to Definitely True	0.7555900112587541	0.7756188999355829
+2	211	DOG will turn down food if HE is not hungry	DORA	Never to Always	-0.7301992351302993	-0.7899039739831785
+2	203	DOG refuses to eat certain human foods that other dogs enjoy	Allergy	Strongly Agree to Strongly Disagree	0.7162263787940302	0.658335762180758
+2	214	DOG takes HIS time to eat a meal	DORA	Never to Always	-0.669583143852707	-0.7267904619507592
+2	201	DOG finishes HIS food immediately after being fed	Allergy	Strongly Agree to Strongly Disagree	-0.6401860827420585	-0.6864736330288937
+2	240	DOG finishes a meal straight away	DORA	Never to Always	0.6186603200543167	0.6709368039003355
+2	232	DOG seems to be hungry all the time	DORA	Not True to Definitely True	0.5785812373849917	0.7293219731008763
+2	199	DOG seems to be hungry all the time	Allergy	Strongly Agree to Strongly Disagree	-0.5659468373886605	-0.6996869212671731
+2	213	After a meal DOG is still interested in eating	DORA	Never to Always	0.5643776523178526	0.740355854115781
+2	215	DOG eats tidbits straight away	DORA	Never to Always	0.5579145601730986	0.6230268476709555
+2	234	DOG is very greedy	DORA	Not True to Definitely True	0.44093734916067695	0.5718080313012709
+2	62	DOG licks HIS empty bowl after finishing the food	NA	Never to Always	0.39222432385352285	0.5039772460403528
+2	206	DOG gets excited when there is food around	DORA	Never to Always	0.3316352428145951	0.5651753907893508
+2	204	DOG continues to seek out foods that have made HIM vomit in the past	Allergy	Strongly Agree to Strongly Disagree	-0.2583361207495307	-0.3213431555984644
+2	61	DOG has difficulty finding food dropped on the floor	CCDR	Never to Always	-0.1613330716974857	-0.20179350825493816
+2	52	DOG works at tasks (e.g., getting treats out of a Kong, shredding toys) until entirely finished	DPQ	Strongly Agree to Strongly Disagree	-0.14873144133325258	-0.20820331717016893
+2	63	DOG licks tile / linoleum floors	NA	Never to Always	0.12906693632519214	0.26905026537599325
+2	236	I weigh or measure how much food I give DOG	DORA	Not True to Definitely True	0.11356884996332349	0.24830953952205065
+2	208	DOG hangs around for tidbits even if there is not much chance of getting them	DORA	Never to Always	0.1103085216670163	0.41795988905576265
+2	210	DOG hangs around when I am preparing or eating human food	DORA	Never to Always	0.09211084346971758	0.384624662430276
+2	200	DOG attempts to eat non-food items (e.g., feces, stones, sticks)	Allergy	Never to Always	-0.043535337775758146	0.21792385526749858
+2	221	I alter the food DOG gets in order to control HIS weight	DORA	Not True to Definitely True	0.023799799164412182	0.21624878367130076
+3	4	DOG enjoys playing with toys	DPQ	Strongly Agree to Strongly Disagree	0.9412533275323798	0.7819898144375947
+3	54	DOG retrieves objects (e.g., balls, toys, sticks)	DPQ	Strongly Agree to Strongly Disagree	0.8029526505550408	0.697678916528064
+3	195	DOG likes to carry objects (ball, toy, stick) in HIS mouth	Allergy	Never to Always	-0.7697383956430545	-0.6944606425397594
+3	2	DOG wants to play	CHQLS	Strongly Agree to Strongly Disagree	0.6869257952543671	0.6930985994069776
+3	5	DOG gets bored in play quickly	DPQ	Strongly Agree to Strongly Disagree	-0.5885589506641951	-0.5559297978665824
+3	149	How much time in a normal day does DOG spend licking, chewing, or sucking on toys, people, or other pets?	NA	None to 5+ hr	-0.3637509180892989	-0.389187344599303
+3	89	DOG takes a long time to lose interest in new things	DIAS	Strongly Agree to Strongly Disagree	0.30779149511110837	0.3462373173195656
+3	52	DOG works at tasks (e.g., getting treats out of a Kong, shredding toys) until entirely finished	DPQ	Strongly Agree to Strongly Disagree	0.3045732534404319	0.35389544826783487
+3	6	DOG seeks constant activity	DPQ	Strongly Agree to Strongly Disagree	0.20641875588222253	0.43578719613465616
+3	60	DOG avoids getting wet	NA	Strongly Agree to Strongly Disagree	-0.17986497194677672	-0.2335414862322806
+3	228	DOG runs around a lot	DORA	Never to Always	-0.14175628596180662	-0.405752284777305
+3	1	DOG enjoys life	CHQLS	Strongly Agree to Strongly Disagree	0.13187831342976417	0.26197131368650484
+3	22	DOG is playful with other dogs	DPQ	Strongly Agree to Strongly Disagree	0.12590329602289307	0.25438550574914304
+3	106	DOG is curious	DPQ	Strongly Agree to Strongly Disagree	0.10139646376845556	0.2816569225382003
+3	222	DOG's walks involve a lot of energetic play or chasing	DORA	Not True to Definitely True	-0.09752930676296082	-0.29420756750740074
+3	13	DOG is boisterous	DPQ	Strongly Agree to Strongly Disagree	0.096572853969897135	0.2648246208175845
+3	33	DOG sleeps more, is less awake	CHQLS	Strongly Agree to Strongly Disagree	-0.06082648880435845	-0.3272885467893166
+3	39	DOG lays in one place all day long	CHQLS	Never to Always	0.05496006974344708	0.2348421760098899
+3	103	DOG seems dull or depressed, not alert	CHQLS	Strongly Agree to Strongly Disagree	0.02734851684353845	-0.20684074711644782
+3	226	DOG gets a lot of exercise	DORA	Not True to Definitely True	-0.013592585306942257	-0.259508003514176
+3	101	DOG is lethargic	DPQ	Strongly Agree to Strongly Disagree	-0.012880571814691235	-0.295975289308838
+3	26	DOG is as active as HE has been	CHQLS	Strongly Agree to Strongly Disagree	0.004484185719266739	0.24837590747683858
+3	217	DOG is very fit	DORA	Not True to Definitely True	-0.004173363548238829	-0.22733531479512517
+3	56	DOG reacts very quickly	DIAS	Strongly Agree to Strongly Disagree	-1.0531758795973532e-4	0.2226490059095868
+4	151	How much time in a normal day does DOG spend licking floors?	NA	None to 5+ hr	0.7282879926065221	0.5910244541313757
+4	63	DOG licks tile / linoleum floors	NA	Never to Always	0.5666469628661681	0.46993590716186023
+4	148	How much time in a normal day does DOG spend licking, chewing, or sucking on themself?	NA	None to 5+ hr	0.3668042384502351	0.39785271351077134
+4	145	How much time in a normal day does DOG spend false digging (scratching at floor/carpet/etc)?	NA	None to 5+ hr	0.2609772338875967	0.2575011631810226
+4	147	How much time in a normal day does DOG spend catching ""invisible flies""?	NA	None to 5+ hr	0.25117650119232793	0.2764216540219036
+4	149	How much time in a normal day does DOG spend licking, chewing, or sucking on toys, people, or other pets?	NA	None to 5+ hr	0.24082142518166455	0.3063650761740528
+4	152	How much time in a normal day does DOG spend chasing lights or reflections?	NA	None to 5+ hr	0.23982873532691026	0.2529829802184489
+4	146	How much time in a normal day does DOG spend chasing HIS tail, or circling?	NA	None to 5+ hr	0.22670054564478173	0.27601906116367014
+4	95	DOG stares blankly at the walls or floor	CCDR	Never to Always	0.22010916687701748	0.32700038388154556
+4	150	How much time in a normal day does DOG spend showing trance-like behaviour?	NA	None to 5+ hr	0.21062652800496157	0.2783767285957848
+4	155	One or more repetitive behaviors interfere with DOG's life.	NA	Never to Always	0.16627633986495052	0.29998264552238674
+4	93	DOG paces up and down, walks in circles and/or wanders with no direction or purpose	CCDR	Strongly Agree to Strongly Disagree	-0.10443797644070907	-0.2510223772172593
+4	153	It can be difficult to get DOG's attention when HE is engaged in a repetitive behavior.	NA	Strongly Agree to Strongly Disagree	0.019939889483069153	-0.20437035797027076
+5	73	DOG is dominant over other dogs	DPQ	Strongly Agree to Strongly Disagree	0.8401683682661808	0.7089827575065576
+5	79	DOG is assertive or pushy with other dogs (e.g., if in a home with other dogs, when greeting)	DPQ	Strongly Agree to Strongly Disagree	0.6582920986767108	0.5543694358763701
+5	91	DOG behaves submissively (e.g., rolls over, avoids eye contact, licks HIS lips) when greeting other dogs	DPQ	Strongly Agree to Strongly Disagree	-0.514546643592401	-0.47914428437693773
+5	71	DOG behaves aggressively toward other dogs	DPQ	Strongly Agree to Strongly Disagree	0.3737338208137801	0.3895950167961202
+5	72	DOG willingly shares HIS toys with other dogs	DPQ	Strongly Agree to Strongly Disagree	-0.31624436723171245	-0.2947946817152382
+5	77	DOG behaves fearfully towards other dogs	DPQ	Strongly Agree to Strongly Disagree	-0.300499154471942	-0.24835937617925954
+5	169	DOG is bold.	DPQL	Strongly Agree to Strongly Disagree	0.26207010307152095	0.35406698109986345
+5	16	DOG aggressively guards coveted items (e.g., stolen item, treats, food bowl)	DPQ	Strongly Agree to Strongly Disagree	0.2137594920676885	0.21507780291800338
+5	102	DOG is confident	DPQ	Strongly Agree to Strongly Disagree	0.21053868793913308	0.2945403339450808
+5	75	DOG is friendly towards other dogs	DPQ	Strongly Agree to Strongly Disagree	-0.1999174362677407	-0.2445628722530199
+5	3	DOG becomes aggressive when excited	DIAS	Strongly Agree to Strongly Disagree	0.16152976732379629	0.21140632169594004
+6	31	DOG ignores commands	DPQ	Strongly Agree to Strongly Disagree	-0.7570407378973129	-0.689571991224022
+6	57	DOG is easy to train	DIAS	Strongly Agree to Strongly Disagree	0.6614973201324286	0.6173756566472874
+6	23	When off leash, DOG comes immediately when called	DPQ	Strongly Agree to Strongly Disagree	0.6564636492631272	0.6138079800354864
+6	34	DOG is slow to respond to corrections	DPQ	Strongly Agree to Strongly Disagree	-0.6264772157977623	-0.5932653839195091
+6	53	DOG leaves food or objects alone when told to do so	DPQ	Strongly Agree to Strongly Disagree	0.47936330528310245	0.5040958846326071
+6	32	DOG is quick to sneak out through open doors, gates	DPQ	Strongly Agree to Strongly Disagree	-0.4554230288923095	-0.47053196407320147
+6	21	DOG is able to focus on a task in a distracting situation (e.g., loud or busy places, around other dogs)	DPQ	Strongly Agree to Strongly Disagree	0.37000614705836404	0.396803566953835
+6	15	DOG appears to be sorry after HE has done something wrong	DIAS	Strongly Agree to Strongly Disagree	0.24202774286691808	0.2513956389129328
+6	35	DOG escapes from cages, kennels, or enclosures	NA	Never to Always	0.24008392976291165	0.25663272218593436
+6	55	DOG appears to have a lot of control over how HE responds	DIAS	Strongly Agree to Strongly Disagree	0.2382373644803144	0.32834718995542805
+6	14	DOG does not think before HE acts	DIAS	Strongly Agree to Strongly Disagree	-0.15638034959091268	-0.25275152340093715
+6	105	DOG is considered to be very impulsive	DIAS	Strongly Agree to Strongly Disagree	-0.13094272505474044	-0.24311159322384016
+6	153	It can be difficult to get DOG's attention when HE is engaged in a repetitive behavior.	NA	Strongly Agree to Strongly Disagree	-0.11986939923603177	-0.23931206988311726
+6	154	It can be difficult to interrupt DOG when HE is engaged in a repetitive behavior.	NA	Strongly Agree to Strongly Disagree	-0.0949759007810314	-0.22291056550778293
+6	10	DOG is not very patient	DIAS	Strongly Agree to Strongly Disagree	-0.08550005884486536	-0.2026972124385256
+7	233	DOG has a sensitive stomach	DORA	Not True to Definitely True	0.8733165800899629	0.8326445531823846
+7	237	DOG often gets tummy upsets	DORA	Not True to Definitely True	0.8673413238668716	0.8297590168491388
+7	231	DOG gets an upset tummy on some foods	DORA	Not True to Definitely True	0.7683213482772319	0.7457192065291359
+7	184	DOG seems to have an upset stomach	Allergy	Rarely to Once a Day	0.662955572916771	0.6581097648803582
+7	182	DOG vomits or attempts to vomit	Allergy	Rarely to Once a Day	0.38669556141686845	0.41201016847127886
+7	204	DOG continues to seek out foods that have made HIM vomit in the past	Allergy	Strongly Agree to Strongly Disagree	-0.2390089636411774	-0.2794641319394791
+8	107	DOG is affectionate	DPQ	Strongly Agree to Strongly Disagree	0.7368030236785696	0.6447353495798156
+8	37	DOG walks away or avoids being patted	CCDR	Never to Always	0.6312125598012095	0.5303578005643828
+8	49	DOG seeks companionship from people	DPQ	Strongly Agree to Strongly Disagree	0.6264599804509671	0.5671284228804129
+8	41	DOG doesn't like to be approached or hugged	DIAS	Strongly Agree to Strongly Disagree	-0.5061318693094901	-0.4465463146431761
+8	109	DOG is aloof	DPQ	Strongly Agree to Strongly Disagree	-0.48733437513488004	-0.442981456916148
+8	45	DOG is a people person	NA	Strongly Agree to Strongly Disagree	0.45373418219479067	0.4281778206487267
+8	43	DOG responds to my presence	CHQLS	Strongly Agree to Strongly Disagree	0.32062897816033104	0.3099647747795868
+8	50	DOG must greet everyone who comes to the door	NA	Strongly Agree to Strongly Disagree	0.23996504005971941	0.2670108047226448
+8	1	DOG enjoys life	CHQLS	Strongly Agree to Strongly Disagree	0.2224013346516531	0.2580459851199658
+8	110	DOG has more good days than bad days	CHQLS	Strongly Agree to Strongly Disagree	0.1800392251100292	0.21332267095736626
+9	230	DOG often gets human food	DORA	Not True to Definitely True	0.8007291624740431	0.7733134157611086
+9	216	DOG gets bits of human food when we are eating	DORA	Never to Always	0.7603684357935545	0.781169643523109
+9	238	DOG gets no food at human mealtimes	DORA	Not True to Definitely True	-0.7149405768207153	-0.7253229418421043
+9	207	DOG gets human leftovers in HIS food bowl	DORA	Never to Always	0.6929503240551792	0.6874461141043154
+9	236	I weigh or measure how much food I give DOG	DORA	Not True to Definitely True	-0.1643512239665758	-0.21177601492182793
+9	208	DOG hangs around for tidbits even if there is not much chance of getting them	DORA	Never to Always	0.09889776992132585	0.30476167594459325
+9	210	DOG hangs around when I am preparing or eating human food	DORA	Never to Always	0.07239910304608504	0.25233065861312837
+10	227	DOG spends most of HIS walks off the lead	DORA	Never to Always	0.9324744125490159	0.8678160266128093
+10	219	DOG's walks are mostly on the lead	DORA	Not True to Definitely True	-0.8959775230457762	-0.8310354132807718
+10	222	DOG's walks involve a lot of energetic play or chasing	DORA	Not True to Definitely True	0.3828707628115703	0.4353527145342951
+10	23	When off leash, DOG comes immediately when called	DPQ	Strongly Agree to Strongly Disagree	-0.2140506208584474	-0.23641511442078542
+10	228	DOG runs around a lot	DORA	Never to Always	0.1789733888341943	0.26209843467878696
+10	226	DOG gets a lot of exercise	DORA	Not True to Definitely True	0.11650785763518139	0.2306260453228408
+11	223	I am careful about DOG's weight	DORA	Not True to Definitely True	0.8040481833398357	0.7305881530158861
+11	225	I am careful to regulate the exercise DOG gets in order to keep HIM slim	DORA	Not True to Definitely True	0.7059209363916743	0.6343616113740814
+11	221	I alter the food DOG gets in order to control HIS weight	DORA	Not True to Definitely True	0.5713666239288493	0.5437986975497989
+11	236	I weigh or measure how much food I give DOG	DORA	Not True to Definitely True	0.36968084848573873	0.4099836521182244
+11	240	DOG finishes a meal straight away	DORA	Never to Always	-0.008440452743246795	0.20442891741688182
+12	218	I think DOG could do with losing some weight	DORA	Not True to Definitely True	-0.9077676917678686	-0.8448690387408768
+12	224	I am happy with DOG's weight	DORA	Not True to Definitely True	0.8334480099631143	0.7883475577185066
+12	217	DOG is very fit	DORA	Not True to Definitely True	0.44265834712417607	0.5414156837029507
+12	221	I alter the food DOG gets in order to control HIS weight	DORA	Not True to Definitely True	-0.3064368236604175	-0.31808125495141715
+12	226	DOG gets a lot of exercise	DORA	Not True to Definitely True	0.18429726782980196	0.32523523534424836
+13	200	DOG attempts to eat non-food items (e.g., feces, stones, sticks)	Allergy	Never to Always	0.8963321988831473	0.7645941593741907
+13	30	DOG eats non-food items	NA	Never to Always	0.8209635923638666	0.7171985610683186
+13	239	DOG would eat non-food objects like stones, toys, or socks	DORA	Not True to Definitely True	0.7042373366991049	0.6245034876927433
+13	68	DOG eats HIS own feces	NA	Never to Always	0.3525795676723223	0.3032439015169244
+13	28	DOG eats grass	NA	Never to Always	0.2639645153563542	0.21100626867445763
+13	204	DOG continues to seek out foods that have made HIM vomit in the past	Allergy	Strongly Agree to Strongly Disagree	-0.18999108567081888	-0.2000223095085488
+14	75	DOG is friendly towards other dogs	DPQ	Strongly Agree to Strongly Disagree	-0.8704354000757663	-0.7494087301754743
+14	22	DOG is playful with other dogs	DPQ	Strongly Agree to Strongly Disagree	-0.8182718730730195	-0.7034416291546636
+14	74	DOG avoids other dogs	DPQ	Strongly Agree to Strongly Disagree	0.7791942584224787	0.6608557405987538
+14	77	DOG behaves fearfully towards other dogs	DPQ	Strongly Agree to Strongly Disagree	0.6029835783375173	0.5378031716562064
+14	71	DOG behaves aggressively toward other dogs	DPQ	Strongly Agree to Strongly Disagree	0.5528026612700581	0.5192888584021933
+14	72	DOG willingly shares HIS toys with other dogs	DPQ	Strongly Agree to Strongly Disagree	-0.33981827249244134	-0.34764885149108904
+14	76	DOG knows HE is a dog	NA	Strongly Agree to Strongly Disagree	-0.22714985438126592	-0.20901529618517206
+15	154	It can be difficult to interrupt DOG when HE is engaged in a repetitive behavior.	NA	Strongly Agree to Strongly Disagree	0.9769048531752197	0.8285590190617018
+15	153	It can be difficult to get DOG's attention when HE is engaged in a repetitive behavior.	NA	Strongly Agree to Strongly Disagree	0.9315207646111987	0.7948957821736379
+15	155	One or more repetitive behaviors interfere with DOG's life.	NA	Never to Always	-0.4575189499460881	-0.4358955474875451
+15	7	Excitement can lead DOG to fixed repetitive behavior	DIAS	Strongly Agree to Strongly Disagree	0.25923010826156795	0.28632108723684974
+16	201	DOG finishes HIS food immediately after being fed	Allergy	Strongly Agree to Strongly Disagree	0.749485074126211	0.5040403590163609
+16	240	DOG finishes a meal straight away	DORA	Never to Always	-0.7440344000666753	-0.5014403115732857
+16	214	DOG takes HIS time to eat a meal	DORA	Never to Always	0.5586625253491183	0.362012322199463
+16	62	DOG licks HIS empty bowl after finishing the food	NA	Never to Always	-0.4329591988390544	-0.31034750099848907
+16	199	DOG seems to be hungry all the time	Allergy	Strongly Agree to Strongly Disagree	0.36429283544125696	0.2671716585805807
+16	213	After a meal DOG is still interested in eating	DORA	Never to Always	-0.3281276034582798	-0.25023195437325474
+16	232	DOG seems to be hungry all the time	DORA	Not True to Definitely True	-0.32170547403103616	-0.24267547123398125
+16	203	DOG refuses to eat certain human foods that other dogs enjoy	Allergy	Strongly Agree to Strongly Disagree	0.1530262606295485	0.24516775430434234
+16	209	DOG is choosy about which tidbits HE eats	DORA	Never to Always	-0.1414283686299751	-0.24731740885347084
+16	212	DOG inspects unfamiliar foods before deciding whether or not to eat them	DORA	Never to Always	-0.1258184497111542	-0.2435723422790541
+16	196	DOG inspects unfamiliar foods before deciding whether to eat them	Allergy	Strongly Agree to Strongly Disagree	0.1040330196826037	0.22273377266871686
+17	86	DOG is highly sensitive to noise	NA	Strongly Agree to Strongly Disagree	0.7180585383861564	0.47234258114363115
+17	90	DOG is afraid of storms	NA	Strongly Agree to Strongly Disagree	0.664141724111995	0.43678179113553667
+17	104	DOG is anxious	DPQ	Strongly Agree to Strongly Disagree	0.5295868278657441	0.4141010298424706
+17	84	DOG is not keen to go into new situations	DIAS	Strongly Agree to Strongly Disagree	0.49970003809266844	0.3788481607924358
+17	81	DOG is very interested in and adapts easily to new things and new places	DIAS DPQ	Strongly Agree to Strongly Disagree	-0.49675289755678104	-0.3627761794712618
+17	173	DOG is quick to recover after being startled or frightened.	DPQL	Strongly Agree to Strongly Disagree	-0.47467593263968905	-0.34615725644841705
+17	97	DOG shakes or trembles occasionally	CHQLS	Strongly Agree to Strongly Disagree	0.44949898129186394	0.33778054279854947
+17	102	DOG is confident	DPQ	Strongly Agree to Strongly Disagree	-0.38120423051143976	-0.33525471310731286
+17	172	DOG is easily startled by unexpected contact with objects (e.g., tripping, brushing against a door frame ).	DPQL	Strongly Agree to Strongly Disagree	0.3434640058373458	0.2827607255969203
+17	83	DOG behaves fearfully when groomed (e.g., nails trimmed, brushed, bathed, ears cleaned)	DPQ	Strongly Agree to Strongly Disagree	0.3358345649862518	0.29888883209950656
+17	169	DOG is bold.	DPQL	Strongly Agree to Strongly Disagree	-0.31291262495026784	-0.2610061593268458
+17	82	DOG exhibits fearful behaviors when HE is restrained	DPQ	Strongly Agree to Strongly Disagree	0.3068142223170829	0.28442426225550294
+17	88	DOG behaves fearfully during visits to the veterinarian	DPQ	Strongly Agree to Strongly Disagree	0.302476349076942	0.24859446566481538
+18	108	DOG tends to be calm	DPQ	Strongly Agree to Strongly Disagree	-0.7979155285531432	-0.6783361433699274
+18	105	DOG is considered to be very impulsive	DIAS	Strongly Agree to Strongly Disagree	0.7266488781762436	0.6300433503005055
+18	14	DOG does not think before HE acts	DIAS	Strongly Agree to Strongly Disagree	0.6891422198730406	0.5719782352558712
+18	8	DOG calms down very quickly after being excited	DIAS	Strongly Agree to Strongly Disagree	-0.6247677874767467	-0.5669066265222522
+18	13	DOG is boisterous	DPQ	Strongly Agree to Strongly Disagree	0.5851717966908812	0.5150835741767686
+18	55	DOG appears to have a lot of control over how HE responds	DIAS	Strongly Agree to Strongly Disagree	-0.5816773410253102	-0.4744959340669026
+18	10	DOG is not very patient	DIAS	Strongly Agree to Strongly Disagree	0.5757029563432057	0.5231544201257714
+18	47	DOG seems to get excited for no reason	DIAS	Strongly Agree to Strongly Disagree	0.5017557096402689	0.49238400618676675
+18	11	DOG is relaxed when greeting people	DPQ	Strongly Agree to Strongly Disagree	-0.43639562827141937	-0.3814370415889286
+18	27	DOG shows extreme physical signs when excited	DIAS	Strongly Agree to Strongly Disagree	0.4349867807973959	0.4138555709268124
+18	6	DOG seeks constant activity	DPQ	Strongly Agree to Strongly Disagree	0.3993493680746382	0.42897277415946794
+18	21	DOG is able to focus on a task in a distracting situation (e.g., loud or busy places, around other dogs)	DPQ	Strongly Agree to Strongly Disagree	-0.3049481866531544	-0.30962800558098136
+18	168	DOG is gentle with small children	CDTT	Strongly Agree to Strongly Disagree	-0.2895966963737662	-0.270128029206548
+18	93	DOG paces up and down, walks in circles and/or wanders with no direction or purpose	CCDR	Strongly Agree to Strongly Disagree	0.2839211604521512	0.30686478556830965
+18	56	DOG reacts very quickly	DIAS	Strongly Agree to Strongly Disagree	0.2673017379825527	0.23676679485249508
+18	7	Excitement can lead DOG to fixed repetitive behavior	DIAS	Strongly Agree to Strongly Disagree	0.255345338315791	0.33643650056967916
+18	104	DOG is anxious	DPQ	Strongly Agree to Strongly Disagree	0.24796531649198572	0.26408432701215673
+18	33	DOG sleeps more, is less awake	CHQLS	Strongly Agree to Strongly Disagree	-0.24118452291623738	-0.25992270293724523
+18	101	DOG is lethargic	DPQ	Strongly Agree to Strongly Disagree	-0.23965424231203866	-0.2328059626760347
+18	51	DOG chases bicycles, joggers, and skateboarders	DPQ	Strongly Agree to Strongly Disagree	0.17638465820148247	0.23703636394547264
+18	169	DOG is bold.	DPQL	Strongly Agree to Strongly Disagree	0.1729939228982557	0.21458011338189084
+18	20	DOG whines to get attention, food, or toys	NA	Never to Always	-0.1528607439621644	-0.21019359445872354
+18	79	DOG is assertive or pushy with other dogs (e.g., if in a home with other dogs, when greeting)	DPQ	Strongly Agree to Strongly Disagree	0.15200374863932486	0.27188351174142417
+18	3	DOG becomes aggressive when excited	DIAS	Strongly Agree to Strongly Disagree	0.10745033804321853	0.2822305488172357
+18	19	DOG whines when alone	NA	Never to Always	-0.09860739884091621	-0.2116461020795206
+18	32	DOG is quick to sneak out through open doors, gates	DPQ	Strongly Agree to Strongly Disagree	0.08356454803633864	0.20028783430616037
+18	228	DOG runs around a lot	DORA	Never to Always	-0.07032418931296096	-0.20711597524141084
+18	9	DOG may become aggressive if HE is frustrated with something	DIAS	Strongly Agree to Strongly Disagree	0.049880115907679864	0.24925028669353677
+18	153	It can be difficult to get DOG's attention when HE is engaged in a repetitive behavior.	NA	Strongly Agree to Strongly Disagree	-0.0016075289774506733	0.20147561562865568
+19	208	DOG hangs around for tidbits even if there is not much chance of getting them	DORA	Never to Always	0.8796695224867359	0.6433335082445739
+19	210	DOG hangs around when I am preparing or eating human food	DORA	Never to Always	0.7903100484201838	0.5875692139971976
+19	206	DOG gets excited when there is food around	DORA	Never to Always	0.5558731258864508	0.43363684501882566
+19	213	After a meal DOG is still interested in eating	DORA	Never to Always	0.2291559843750856	0.2037798522783572
+20	35	DOG escapes from cages, kennels, or enclosures	NA	Never to Always	-0.4651409072483174	-0.3016985014521965
+20	100	DOG places HIS paw on my or other people's feet	NA	Never to Always	-0.39379690047652055	-0.30411022887054723
+20	98	DOG crosses HIS front paws	NA	Never to Always	-0.38237173585881423	-0.2816024113636042
+20	40	DOG damages doors, gates, or walls	NA	Never to Always	-0.3735604777071297	-0.25549405633836064
+20	17	DOG howls	NA	Never to Always	-0.37252356451819696	-0.26076495601365157
+20	19	DOG whines when alone	NA	Never to Always	-0.37049371078354476	-0.2641550517699412
+20	32	DOG is quick to sneak out through open doors, gates	DPQ	Strongly Agree to Strongly Disagree	0.3653478805321142	0.23730599942634636
+20	58	DOG can be very persistent	DIAS	Strongly Agree to Strongly Disagree	0.35181758932376883	0.257078062902128
+20	18	DOG Woo-woo barks	NA	Never to Always	-0.3495837354620423	-0.25150740333250793
+20	20	DOG whines to get attention, food, or toys	NA	Never to Always	-0.33419389480126277	-0.24907240466050454
+20	96	DOG tilts HIS head	NA	Never to Always	-0.32901825418037317	-0.27301129475689623
+20	59	DOG points	NA	Strongly Agree to Strongly Disagree	0.3121489739503888	0.2727135173084053
+20	106	DOG is curious	DPQ	Strongly Agree to Strongly Disagree	0.3032310706296563	0.2354753532446555
+20	99	DOG shows handedness or side-preference	NA	Never to Always	-0.2848093502959888	-0.2029473251400812
+20	29	DOG buries toys / bones	NA	Never to Always	-0.25826899699931016	-0.20187915536656362
+21	26	DOG is as active as HE has been	CHQLS	Strongly Agree to Strongly Disagree	0.6648421078654868	0.5461390494165189
+21	25	DOG moves normally	CHQLS	Strongly Agree to Strongly Disagree	0.5514160362960123	0.4555480174279113
+21	220	I restrict DOG's exercise because of veterinary advice	DORA	Not True to Definitely True	0.5293188810424881	0.41191121882693454
+21	226	DOG gets a lot of exercise	DORA	Not True to Definitely True	-0.5192455617395775	-0.444821563826107
+21	228	DOG runs around a lot	DORA	Never to Always	-0.46544745744588173	-0.4336481024396885
+21	217	DOG is very fit	DORA	Not True to Definitely True	-0.42498280533213206	-0.40100922899144426
+21	222	DOG's walks involve a lot of energetic play or chasing	DORA	Not True to Definitely True	-0.3387968155194359	-0.3203656219582395
+21	33	DOG sleeps more, is less awake	CHQLS	Strongly Agree to Strongly Disagree	-0.28879095202478183	-0.28332205643082814
+21	235	DOG regularly sees the vet for health problems	DORA	Not True to Definitely True	0.2745576794476662	0.24219516296985877
+21	101	DOG is lethargic	DPQ	Strongly Agree to Strongly Disagree	-0.2387473126120745	-0.26579000095868405
+21	103	DOG seems dull or depressed, not alert	CHQLS	Strongly Agree to Strongly Disagree	-0.19745562447448872	-0.22956746970365643
+22	87	DOG shows aggression when nervous or fearful	DPQ	Strongly Agree to Strongly Disagree	0.8135993309175908	0.6500018912796368
+22	44	DOG behaves aggressively in response to perceived threats from people (e.g., being cornered, having collar reached for)	DPQ	Strongly Agree to Strongly Disagree	0.7486880693604143	0.5861253348726264
+22	85	DOG behaves aggressively during visits to the veterinarian	DPQ	Strongly Agree to Strongly Disagree	0.7059357128471866	0.5329976956070622
+22	48	DOG behaves aggressively towards unfamiliar people	DPQ	Strongly Agree to Strongly Disagree	0.6498130853063091	0.5170039369771806
+22	9	DOG may become aggressive if HE is frustrated with something	DIAS	Strongly Agree to Strongly Disagree	0.6198035676513388	0.5413738269003122
+22	3	DOG becomes aggressive when excited	DIAS	Strongly Agree to Strongly Disagree	0.4827080731520725	0.4630191526231264
+22	16	DOG aggressively guards coveted items (e.g., stolen item, treats, food bowl)	DPQ	Strongly Agree to Strongly Disagree	0.3759383263290859	0.37372406805719033
+22	38	DOG shows barrier aggression	NA	Never to Always	-0.3240927890860329	-0.3400117266995218
+22	82	DOG exhibits fearful behaviors when HE is restrained	DPQ	Strongly Agree to Strongly Disagree	0.249779881003709	0.24391686387633169
+22	51	DOG chases bicycles, joggers, and skateboarders	DPQ	Strongly Agree to Strongly Disagree	0.24050070926134573	0.2457157892631936
+22	71	DOG behaves aggressively toward other dogs	DPQ	Strongly Agree to Strongly Disagree	0.2015113388993355	0.36664882715166525
+22	168	DOG is gentle with small children	CDTT	Strongly Agree to Strongly Disagree	-0.19384539609024182	-0.21315422408671283
+22	72	DOG willingly shares HIS toys with other dogs	DPQ	Strongly Agree to Strongly Disagree	-0.08794529668715807	-0.2230202957365119
+22	79	DOG is assertive or pushy with other dogs (e.g., if in a home with other dogs, when greeting)	DPQ	Strongly Agree to Strongly Disagree	-0.03344212557302827	0.20310669938684467
+22	75	DOG is friendly towards other dogs	DPQ	Strongly Agree to Strongly Disagree	-0.019802732822481097	-0.2078234862477419
+22	73	DOG is dominant over other dogs	DPQ	Strongly Agree to Strongly Disagree	-0.009169975347492403	0.23920760543389263
+23	24	DOG likes to chase squirrels, birds, or other small animals	DPQ	Strongly Agree to Strongly Disagree	0.5272189124946248	0.380236260660099
+23	78	DOG behaves aggressively towards cats	DPQ	Strongly Agree to Strongly Disagree	0.3740328502410689	0.28599325231196276
+23	28	DOG eats grass	NA	Never to Always	-0.2842783057078327	-0.22927167366429504
+24	83	DOG behaves fearfully when groomed (e.g., nails trimmed, brushed, bathed, ears cleaned)	DPQ	Strongly Agree to Strongly Disagree	0.45395515697049926	0.280499272784415
+24	20	DOG whines to get attention, food, or toys	NA	Never to Always	-0.3620097069687949	-0.25389806932165393
+24	88	DOG behaves fearfully during visits to the veterinarian	DPQ	Strongly Agree to Strongly Disagree	0.3530461933185509	0.2185702283291142
+25	101	DOG is lethargic	DPQ	Strongly Agree to Strongly Disagree	-0.7430557647970776	-0.5310144182887938
+25	103	DOG seems dull or depressed, not alert	CHQLS	Strongly Agree to Strongly Disagree	-0.6650120625268932	-0.4896056375117737
+25	33	DOG sleeps more, is less awake	CHQLS	Strongly Agree to Strongly Disagree	-0.5967483985592762	-0.40641253908488656
+25	39	DOG lays in one place all day long	CHQLS	Never to Always	0.5259111814469342	0.38281432919067143
+25	95	DOG stares blankly at the walls or floor	CCDR	Never to Always	0.42648556646270075	0.3634000650861812
+25	56	DOG reacts very quickly	DIAS	Strongly Agree to Strongly Disagree	0.4220047117445131	0.37191963593772925
+25	36	DOG gets stuck behind objects and is unable to get around	CCDR	Never to Always	0.3917574599385638	0.33913097281113513
+25	61	DOG has difficulty finding food dropped on the floor	CCDR	Never to Always	0.37633244633478163	0.3518170245898316
+25	25	DOG moves normally	CHQLS	Strongly Agree to Strongly Disagree	0.30664716295385835	0.24235602741944803
+25	6	DOG seeks constant activity	DPQ	Strongly Agree to Strongly Disagree	0.3063391683530842	0.21297173197197572
+25	58	DOG can be very persistent	DIAS	Strongly Agree to Strongly Disagree	0.2973466752957471	0.2688151435100062
+25	106	DOG is curious	DPQ	Strongly Agree to Strongly Disagree	0.27506310495993164	0.2972551658299877
+25	80	DOG sometimes fails to recognize familiar people or pets	CCDR	Strongly Agree to Strongly Disagree	-0.27500158233517286	-0.2209167454046685
+25	94	DOG pants frequently, even at rest	CHQLS	Strongly Agree to Strongly Disagree	-0.26597481955242247	-0.23919967584724655
+25	150	How much time in a normal day does DOG spend showing trance-like behaviour?	NA	None to 5+ hr	0.2564368858072656	0.2337615636605397
+25	1	DOG enjoys life	CHQLS	Strongly Agree to Strongly Disagree	0.245156756442605	0.23409278825837634
+25	228	DOG runs around a lot	DORA	Never to Always	-0.24391636688852628	-0.2163459458581421
+25	217	DOG is very fit	DORA	Not True to Definitely True	-0.21240449255878058	-0.23344165736313172
+25	93	DOG paces up and down, walks in circles and/or wanders with no direction or purpose	CCDR	Strongly Agree to Strongly Disagree	-0.21089428075649566	-0.24995502539867315
+25	102	DOG is confident	DPQ	Strongly Agree to Strongly Disagree	0.2066203015631488	0.25926714680718393
